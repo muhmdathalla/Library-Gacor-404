@@ -59,7 +59,7 @@ public class MemberDashboardView extends JFrame {
         btnLogout.setBackground(new Color(0, 0, 128));
         btnLogout.setOpaque(true);
         btnLogout.setBorderPainted(false);
-        btnLogout.setForeground(Color.BLUE);
+        btnLogout.setForeground(Color.WHITE);
         btnLogout.setFont(UiStyles.FONT_LABEL);
         btnLogout.setFocusPainted(false);
         btnLogout.setBorder(BorderFactory.createLineBorder(Color.WHITE, 1, true));
