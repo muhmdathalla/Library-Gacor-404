@@ -56,7 +56,7 @@ public class AdminDashboardView extends JFrame {
         info.setForeground(new Color(186, 211, 252));
 
         JButton btnLogout = new JButton("Exit");
-        btnLogout.setBackground(new Color(255, 255, 255, 40));
+        btnLogout.setBackground(new Color(0, 0, 128));
         btnLogout.setForeground(Color.BLUE);
         btnLogout.setFont(UiStyles.FONT_LABEL);
         btnLogout.setFocusPainted(false);
