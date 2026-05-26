@@ -6,6 +6,8 @@ import model.*;
 import report.ReportGenerator;
 import repository.*;
 import view.AdminDashboardView;
+import repository.TransactionRepository;
+import repository.TransactionRepositoryImpl;
 
 public class AdminController {
 
